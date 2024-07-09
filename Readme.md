@@ -41,3 +41,4 @@ The original data came from the Cleavland data from the UCI Machine Learning Rep
 14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
 ## We're going to use `pandas`, `Matplotlib` and `NumPy` for data analysis, visualization and manipulation.
+## and `Scikit-learn` for Machine Learning Models. 
